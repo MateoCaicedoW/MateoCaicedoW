@@ -53,7 +53,7 @@ When I'm not coding, you can find me exploring new technologies, optimizing work
 
 
 ### 🔝 Top Contributed Repo
-<p align="center">
+<p >
   <br/>
    <img  src="https://github-contributor-stats.vercel.app/api?username=MateoCaicedoW&limit=5&theme=dark&combine_all_yearly_contributions=true" height="192px"/>
 </p>
