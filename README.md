@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 Hi there! I'm Mateo Caicedo, a passionate software developer currently working at [Wawandco](https://wawand.co) in Barranquilla, Colombia. With over 2 years of experience in the tech industry, I specialize in building efficient and scalable web applications.
 
 ## 🚀 Top Languages
-![MateoCaicedoW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCaicedoW&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  ![MateoCaicedoW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCaicedoW&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+  ![MateoCaicedoW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MateoCaicedoW&theme=monokai&hide_border=true)
+  ![MateoCaicedoW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCaicedoW&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+</div>
+
 
 ## 🛠️ Projects & Contributions
 
