@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello! I'm Mateo Caicedo</h1>
 
 <p align="center">
-I'm a passionate software developer with over 2 years of experience, currently working at <a href="https://wawand.co">Wawandco</a> in Barranquilla, Colombia. I specialize in backend development with Golang and frontend in HTML, Tailwind (my css) and JS. I love building efficient and scalable web applications.
+I'm a passionate software developer with over 3 years of experience, currently working at <a href="https://wawand.co">Wawandco</a> in Barranquilla, Colombia. I specialize in backend development with Golang and frontend in HTML, Tailwind (my css) and JS. I love building efficient and scalable web applications.
 </p>
 <p align="center"> 
 When I'm not coding, you can find me exploring new technologies, optimizing workflows, or enjoying a good book!
